@@ -31,7 +31,7 @@ const Home = () => {
 
 			<h1 className="text-center mt-5">Traffic Light</h1>
 
-			<button type="button" className="btn btn-primary mt-3 mb-3" onClick={purple}>Active/Disable Light Purple</button>
+			<button type="button" className="btn btn-primary mt-3 mb-3" onClick={purple}>Active/Disable Purple</button>
 			<button type="button" className="btn btn-info mt-3 mb-3 ms-3" onClick={changeColor}>Change Color</button>
 
 
